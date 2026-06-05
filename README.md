@@ -1,5 +1,5 @@
 # Hi, I'm JuanJota 👋
-####  **Fanatic fan of programming**
+####  **Fanatic fan of programming** (not profesional)
 Full-Stack Web Developer focused on building clean, scalable, and user-friendly web applications.
 
 I work mainly with **Laravel**, **Filament**, **Tailwind CSS**, **Vue**, and modern PHP/JavaScript tooling, with a strong interest in admin panels, API development, SEO, and polished UI/UX.
