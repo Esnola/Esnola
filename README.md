@@ -1,13 +1,13 @@
 # Hi, I'm JuanJota 👋
-
+####  **Fanatic fan of programming**
 Full-Stack Web Developer focused on building clean, scalable, and user-friendly web applications.
 
 I work mainly with **Laravel**, **Filament**, **Tailwind CSS**, **Vue**, and modern PHP/JavaScript tooling, with a strong interest in admin panels, API development, SEO, and polished UI/UX.
 
 ## About Me
 
-- 💻 Full-stack web developer based in Carlow, Ireland.
-- 🚀 Building modern web applications with Laravel 12 and Filament 4.
+- 💻 Full-stack web developer.
+- 🚀 Building modern web applications with Laravel and Filamen.
 - 🎨 Interested in intuitive interfaces, performance, and maintainable architecture.
 - 🛠 Comfortable across backend, frontend, database design, and deployment workflows.
 - 📷 Also connected to photography-related web projects and portfolio platforms.
@@ -15,10 +15,10 @@ I work mainly with **Laravel**, **Filament**, **Tailwind CSS**, **Vue**, and mod
 ## Tech Stack
 
 - **Backend:** PHP, Laravel, Livewire, REST APIs
-- **Frontend:** Vue, Blade, Tailwind CSS, Alpine.js
+- **Frontend:** Vue, Blade, Tailwind CSS, Alpine.js, flux.
 - **Admin Panels:** Filament
 - **Database:** MySQL, SQL design, migrations, schema planning
-- **Tools:** Git, GitHub, phpStorm, cPanel, macOS
+- **Tools:** Git, GitHub, cPanel, macOS
 
 ## What I Work On
 
