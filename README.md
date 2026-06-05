@@ -20,14 +20,7 @@ I work mainly with **Laravel**, **Filament**, **Tailwind CSS**, **Vue**, and mod
 - **Database:** MySQL, SQL design, migrations, schema planning
 - **Tools:** Git, GitHub, cPanel, macOS
 
-## What I Work On
 
-- Custom Laravel applications
-- Admin dashboards and multi-panel systems with Filament
-- Form workflows, validation, and email notification systems
-- Authentication, authorization, and role/permission management
-- SEO-oriented websites and performance improvements
-- Deployment and maintenance on cPanel-based environments
 
 ## Featured Interests
 
@@ -37,26 +30,3 @@ I work mainly with **Laravel**, **Filament**, **Tailwind CSS**, **Vue**, and mod
 - Privacy compliance and cookie consent implementation
 - Better developer experience and efficient workflows
 
-## Current Focus
-
-Right now, I'm focused on improving application architecture, building better admin experiences, and refining frontend details that make products feel fast, clear, and reliable.
-
-## Connect With Me
-
-- Add your portfolio link here
-- Add your LinkedIn profile here
-- Add your email or contact link here
-
-## GitHub Goals
-
-Use this space to showcase:
-
-- Projects you are proud of
-- Open-source contributions
-- Tools and technologies you use daily
-- What you're currently learning
-- Ways people can collaborate with you
-
----
-
-> Clean code, thoughtful UX, and practical solutions.
