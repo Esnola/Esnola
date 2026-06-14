@@ -30,3 +30,4 @@ I work mainly with **Laravel**, **Filament**, **Tailwind CSS**, **Vue**, and mod
 - Privacy compliance and cookie consent implementation
 - Better developer experience and efficient workflows
 
+<img src="setuphubdev-banner.svg">
