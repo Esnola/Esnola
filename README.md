@@ -29,4 +29,4 @@ I work mainly with **Laravel**, **Filament**, **Tailwind CSS**, **Vue**, and mod
 - Scalable component-based architecture
 - Privacy compliance and cookie consent implementation
 - Better developer experience and efficient workflows
-  (a href="https://setuphub.dev/")[<img src="setuphubdev-banner.svg">]
+- [<img src="setuphubdev-banner.svg">](https://setuphub.dev)
